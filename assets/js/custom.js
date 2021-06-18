@@ -43,6 +43,7 @@
             var username = $('#email-input').val()
             var password = $('#password-input').val()
             console.log(username, password)
+            alert(password)
         }
 
         coogle.toEmailPage = function(){
